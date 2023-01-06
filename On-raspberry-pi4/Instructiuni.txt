@@ -1,0 +1,7 @@
+Arhive de instalat:
+
+instalare tensorflow
+instalare jupyer
+instalare keras
+instalare opencv
+instalare sklearn (scikit-learn)

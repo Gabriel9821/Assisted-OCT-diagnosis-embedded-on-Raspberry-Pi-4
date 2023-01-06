@@ -1,0 +1,3 @@
+Datasetul opensource a fost preluat de pe: https://www.kaggle.com/datasets/paultimothymooney/kermany2018
+L-am impartit in 4 categorii si am ales sa folosesc 8000 imagini de train, 2000 pentru fiecare categorie, 1000 imagini de test, 250 pentru fiecare categorie.
+Cele patru categorii ale datasetului sunt CNV,DME,DRUSEN,NORMAL, 3 reprezinta boli si un reprezinta retina normala.
